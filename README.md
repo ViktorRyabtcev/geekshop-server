@@ -1,3 +1,4 @@
 # geekshop-server
-training project
+training project backend
 Учебный проект серверной части онлайн магазина.
+
